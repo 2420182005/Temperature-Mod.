@@ -55,8 +55,9 @@ The 'Temperature modulator with PIC16F15244' code uses the PIC16F15244 curiosity
 ![4](https://user-images.githubusercontent.com/74994048/100312843-50558280-2f81-11eb-9705-2d38910e0c21.png)
 
 
-7. Set up the circuit shown below
-###### Figure 5: Circuit Set up
+7. Set up the conditioning circuit 
+###### Figure 5: Circuit Simulation Set up
+![5](https://user-images.githubusercontent.com/74994048/100349834-07202580-2fb7-11eb-8abf-b96cdcb307cb.jpeg)
 
 ## Operation
 After the Nano board is programmed, LED0 will toggle between its 'ON' and 'OFF' states every one second.
