@@ -55,7 +55,7 @@ The 'Temperature modulator with PIC16F15244' code uses the PIC16F15244 curiosity
 ![4](https://user-images.githubusercontent.com/74994048/100312843-50558280-2f81-11eb-9705-2d38910e0c21.png)
 
 
-7. Set up the conditioning circuit that goes on the PIC input and set up a simple transistor-relay conenction for the outputs. One for each output.
+7. Set up the conditioning circuit that goes on the PIC input and set up a simple transistor-relay conenction for the outputs, one for each output. Finally connect everything to the board as shown in figure 7 
 
 ###### Figure 5: Circuit Simulation Signal condition Set up
 ![5](https://user-images.githubusercontent.com/74994048/100349834-07202580-2fb7-11eb-8abf-b96cdcb307cb.jpeg)
@@ -65,6 +65,10 @@ The 'Temperature modulator with PIC16F15244' code uses the PIC16F15244 curiosity
 ###### Figure 6: Circuit Simulation transistor - relay  Set up
 ![6](https://user-images.githubusercontent.com/74994048/100350270-9c231e80-2fb7-11eb-94ba-c9be81f51c6a.jpeg)
 
+
+
+###### Figure 7: Connection to the board
+![7](https://user-images.githubusercontent.com/74994048/100352659-51a3a100-2fbb-11eb-9254-d8a36432b43f.png)
 
 ## Operation
 After the Nano board is programmed, LED0 will toggle between its 'ON' and 'OFF' states every one second.
