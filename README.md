@@ -3,7 +3,7 @@
 The 'Temperature modulator with PIC16F15244' code uses the PIC16F15244 curiosity nano development board and the ADC convertion alongside LM35 sensor to carry out an action that modulates the room temperature.
 
 ##### PIC16F15244 Curiosity Nano Development Board:
-![Curiosity Nano Development Board](images/NanoHighlights.png)
+![Nano](https://user-images.githubusercontent.com/74994048/100312554-a5dd5f80-2f80-11eb-952c-5f76a1148568.png)
 ##### Temperature sensor LM35
 
 ## Related Documentation
