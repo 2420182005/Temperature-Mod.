@@ -41,15 +41,19 @@ The 'Temperature modulator with PIC16F15244' code uses the PIC16F15244 curiosity
 5. Press the 'Project Properites' button to open the Project Properties window. Select the Curiosity tool from the Tools drop-down menu as shown in Figure 2.
 
 ###### Figure 2: Select the Nano in Project Properties Window
-![Select Tool]()
+![2](https://user-images.githubusercontent.com/74994048/100312827-492e7480-2f81-11eb-9252-47c689c1b554.png)
+
 
 6. Press the 'Make and Program Device' button to program the PIC (see Figure 3). Verify that the device was successfully programmed (see Figure 4).
 
 ###### Figure 3: 'Make and Program Device' Button
-![Program Device Button]()
+![3](https://user-images.githubusercontent.com/74994048/100312836-4d5a9200-2f81-11eb-8d13-67e0eaa7c06e.png)
+
+
 
 ###### Figure 4: Program Complete
-![Program Complete]()
+![4](https://user-images.githubusercontent.com/74994048/100312843-50558280-2f81-11eb-9705-2d38910e0c21.png)
+
 
 7. Set up the circuit shown below
 ###### Figure 5: Circuit Set up
