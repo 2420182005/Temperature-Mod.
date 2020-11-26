@@ -36,7 +36,7 @@ The 'Temperature modulator with PIC16F15244' code uses the PIC16F15244 curiosity
 4. Open the 'nombre.X' project as shown in Figure 1.
 
 ###### Figure 1: Open Project Window
-![Open Project Window](Este equipo/Imágenes/Readme/1.png)
+![Open Project Window](/Imágenes/Readme/1.png)
 
 5. Press the 'Project Properites' button to open the Project Properties window. Select the Curiosity tool from the Tools drop-down menu as shown in Figure 2.
 
