@@ -3,7 +3,7 @@
 The 'Temperature modulator with PIC16F15244' code uses the PIC16F15244 curiosity nano development board and the ADC convertion alongside LM35 sensor to carry out an action that modulates the room temperature.
 
 ##### PIC16F15244 Curiosity Nano Development Board:
-![Curiosity Nano Development Board](Imágenes/Readme/Nano.png)
+![Curiosity Nano Development Board](images/NanoHighlights.png)
 ##### Temperature sensor LM35
 
 ## Related Documentation
@@ -36,20 +36,20 @@ The 'Temperature modulator with PIC16F15244' code uses the PIC16F15244 curiosity
 4. Open the 'nombre.X' project as shown in Figure 1.
 
 ###### Figure 1: Open Project Window
-![Open Project Window](/Imágenes/Readme/1.png)
+![Open Project Window]()
 
 5. Press the 'Project Properites' button to open the Project Properties window. Select the Curiosity tool from the Tools drop-down menu as shown in Figure 2.
 
 ###### Figure 2: Select the Nano in Project Properties Window
-![Select Tool](/Imágenes/Readme/2.png)
+![Select Tool]()
 
 6. Press the 'Make and Program Device' button to program the PIC (see Figure 3). Verify that the device was successfully programmed (see Figure 4).
 
 ###### Figure 3: 'Make and Program Device' Button
-![Program Device Button](/Imágenes/Readme/3.png)
+![Program Device Button]()
 
 ###### Figure 4: Program Complete
-![Program Complete](/Imágenes/Readme/4.png)
+![Program Complete]()
 
 7. Set up the circuit shown below
 ###### Figure 5: Circuit Set up
